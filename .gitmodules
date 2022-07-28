@@ -1,0 +1,6 @@
+[submodule "ceres"]
+	path = ceres
+	url = https://ceres-solver.googlesource.com/ceres-solver
+[submodule "googletest"]
+	path = googletest
+	url = git@github.com:google/googletest.git
